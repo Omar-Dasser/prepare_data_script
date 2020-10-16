@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+   <folder>5f86d3331bb0e744583bd761</folder>
+   <filename>200312_152511_1584045022058_2289203-157_BU.jpg</filename>
+   <size>
+      <width>9900</width>
+      <height>1024</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>unsecured outlet</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <occluded>0</occluded>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>4797</xmin>
+         <ymin>451</ymin>
+         <xmax>4992</xmax>
+         <ymax>585</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>cap</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <occluded>0</occluded>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>4810</xmin>
+         <ymin>619</ymin>
+         <xmax>4920</xmax>
+         <ymax>785</ymax>
+      </bndbox>
+   </object>
+</annotation>

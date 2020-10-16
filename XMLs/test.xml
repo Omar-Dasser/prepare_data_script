@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+   <folder>5f86d3331bb0e744583bd761</folder>
+   <filename>1.jpg</filename>
+   <size>
+      <width>7350</width>
+      <height>1024</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>secured outlet</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <occluded>0</occluded>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>3377</xmin>
+         <ymin>449</ymin>
+         <xmax>3572</xmax>
+         <ymax>609</ymax>
+      </bndbox>
+   </object>
+</annotation>
